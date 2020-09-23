@@ -7,6 +7,8 @@ public class clase1_ {
 
 		
 		int num=2;
+		
+		String nombre= prueba_git;
 	}
 
 }
