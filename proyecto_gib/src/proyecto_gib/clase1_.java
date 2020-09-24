@@ -10,6 +10,8 @@ public class clase1_ {
 		String nombre = "prueba_git";
 		// edicion git hub
 		// cambio desde eclipse
+		
+		//tercer cambio eclipse
 
 	}
 
