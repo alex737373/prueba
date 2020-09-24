@@ -12,6 +12,8 @@ public class clase1_ {
 		// cambio desde eclipse
 		
 		//tercer cambio eclipse
+		
+		int num2=2;
 
 	}
 
