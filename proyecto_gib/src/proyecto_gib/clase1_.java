@@ -9,8 +9,8 @@ public class clase1_ {
 		int num=2;
 		
 		String nombre="prueba_git";
-		//ediciioon git hub
-		// cambio desde eclip
+		//edicion git hub
+		// cambio desde eclipse
 		
 	}
 
